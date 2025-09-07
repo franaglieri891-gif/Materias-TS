@@ -67,7 +67,7 @@ const materias = [
   { nombre: "Optativa", semestre: "8vo Semestre Ciclo Avanzado", creditos: 6, nota: "", estado: "Pendiente" },
   { nombre: "Epistemología", semestre: "8vo Semestre Ciclo Avanzado", creditos: 6, nota: "", estado: "Pendiente" }
 ];
-Luego agregaremos todas las demás materias
+// Fin del array materias
 ];
 
 function renderMalla() {
